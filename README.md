@@ -2,6 +2,8 @@
 
 __Project Report:__ 
 
+VideoLink: https://drive.google.com/file/d/1MfUA3GO9Bz324ZfYef9JW_1vzA8MN_oE/view?usp=sharing
+
 Task Manager App – Flutter CRUD Application Using Back4App Project Overview This project is a Flutter-based Task Manager App that allows users to register, log in, manage tasks (CRUD operations), and log out securely. The app leverages Back4App (a Backend-as-a-Service platform) to handle user authentication and database operations without requiring manual backend development.
 
 Why Use Back4App (BaaS)? Back4App simplifies backend management by providing: 
